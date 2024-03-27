@@ -1,0 +1,32 @@
+- id: home
+  translation: Home
+
+- id: read_more
+  translation: Lebih Lengkap
+
+- id: send
+  translation: Kirim
+
+- id: related_posts
+  translation: Post Bersangkutan
+
+- id: categories
+  translation: Kategori
+
+- id: tags
+  translation: Tags
+
+- id: toc
+  translation: Konten Tabel
+
+- id: share
+  translation: Bagikan
+
+- id: search_input_placeholder
+  translation: Cari Post ...
+
+- id: no_results_for
+  translation: Tidak ada hasil dari
+
+- id: empty_search_results_placeholder
+  translation: Ketik sesuatu untuk mencari
