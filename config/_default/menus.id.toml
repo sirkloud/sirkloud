@@ -12,8 +12,8 @@ pageRef = "/blog"
 weight = 2
 
 [[main]]
-name = "Tentang Saya"
-pageRef = "/about"
+name = "Proyek Saya"
+pageRef = "/project"
 weight = 3
 
 [[main]]
@@ -41,24 +41,20 @@ parent = "Pages"
 name = "Kategori"
 pageRef = "/categories"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
 
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Tentang Saya"
 pageRef = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-pageRef = "/elements"
+name = "Kontak"
+pageRef = "/contact"
 weight = 2
 
 [[footer]]
 name = "Privacy Policy"
-pageRef = "/privacy-policy"
+pageRef = "/pages/privacy-policy"
 weight = 3

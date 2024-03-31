@@ -1,5 +1,5 @@
 ---
-title: "Hey, I am Krisna Amarta"
+title: "Halo, saya Krisna Amarta"
 meta_title: "About"
 description: "Sirkloud About Us"
 image: "/images/avatar.png"

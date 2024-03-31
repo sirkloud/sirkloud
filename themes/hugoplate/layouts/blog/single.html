@@ -62,15 +62,15 @@
               </div>
             {{ end }}
             <div class="lg:col-4 flex items-center">
-              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
+              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Reddit" false "Email" false "Whatsapp" true "Telegram" true "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
           </div>
-          <!-- comments -->
+          {{/*  <!-- comments -->
           {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
             </div>
-          {{ end }}
+          {{ end }}  */}}
         </article>
       </div>
 
