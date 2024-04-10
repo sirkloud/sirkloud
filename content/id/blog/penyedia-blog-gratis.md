@@ -1,12 +1,12 @@
 ---
-title: "Memasang Banyak Font Sekaligus di Linux Mint"
+title: "Rekomendasi Situs Penyedia Blog Gratis"
 meta_title: ""
 description: "this is meta description"
-date: 2020-06-22
-image: "/images/post-banner/post1-banner.png"
-categories: ["Linux"]
+date: 2020-06-24
+image: "/images/post-banner/post2-banner.png"
+categories: ["Blog"]
 author: "Krisna Amarta"
-tags: ["Font"]
+tags: ["Blog"]
 draft: false
 ---
 Sesusai dengan judul artikelnya, kali ini saya akan membahas dan memberikan beberapa rekomendasi situs web terbaik untuk membuat blog gratis, ya gratis, tanpa biaya apapun.
