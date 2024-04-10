@@ -3,7 +3,7 @@ title: "Rekomendasi Situs Penyedia Blog Gratis"
 meta_title: ""
 description: "this is meta description"
 date: 2020-06-24
-image: "/images/post-banner/post2-banner.png"
+image: "/images/post-banner/post3-banner.png"
 categories: ["Blog"]
 author: "Krisna Amarta"
 tags: ["Blog"]
